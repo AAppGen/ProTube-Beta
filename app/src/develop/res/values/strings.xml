@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Facebook Ads -->
+    <string name="facebook_ad_banner">IMG_16_9_APP_INSTALL#393026915217224_415540442965871</string>
+    <string name="facebook_ad_native_banner">IMG_16_9_APP_INSTALL#393026915217224_393109281875654</string>
+    <string name="facebook_ad_medium_rectangle">IMG_16_9_APP_INSTALL#393026915217224_415540872965828</string>
+    <string name="facebook_ad_native">IMG_16_9_APP_INSTALL#393026915217224_393037505216165</string>
+    <string name="facebook_ad_interstitial">IMG_16_9_APP_INSTALL#393026915217224_393645531822029</string>
+
+    <!-- Google AdMob Ads -->
+    <string name="app_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="admob_banner_ad">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="admob_interstitial_ad">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="admob_native_ad">ca-app-pub-3940256099942544/2247696110</string>
+    <string name="admob_app_open_ad">ca-app-pub-3940256099942544/9257395921</string>
+
+    <!-- Applovin Ads -->
+    <string name="applovin_banner_ad" translatable="false">d5b3fc215e17bf31</string>
+    <string name="applovin_interstitial_ad" translatable="false">2f2cf74fca3bc231</string>
+    <string name="applovin_native_manual_ad" translatable="false">eef0e5dca008ab6f</string>
+
+</resources>
